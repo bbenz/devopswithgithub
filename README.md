@@ -6,10 +6,13 @@
 
 
 ## Workshop delivery 
-I'm happy to deliver this workshop vitually at destinations worldwide, and also to support anyone else who wants to deliver this, especially in local languages.
+I'm happy to deliver this workshop virtually at destinations worldwide, and also to support anyone else who wants to deliver this, especially in local languages.
 
-Past deliveries:
+### Past deliveries:
  - 4Developers conference, October 26, 2090
+
+## Prerequisites
+Here are list of free and open source [prerequisites](001_workshop_Prerequisites.md)
 
 
 # Agenda
