@@ -8,21 +8,29 @@
 ## Workshop delivery 
 I'm happy to deliver this workshop virtually at destinations worldwide, and also to support anyone else who wants to deliver this, especially in local languages.
 
-### Past deliveries:
- - 4Developers conference, October 26, 2090
+Deliveries:
+ - 4Developers conference, October 27, 2090
 
 ## Prerequisites
 Here are list of free and open source [prerequisites](001_workshop_Prerequisites.md)
 
-
 # Agenda
 
-## Introduction
-### GitHub on Vs Code - considerations
-### GitHub Ecosystem
-### GitHube tools and services
+## DevOps for Azure
+### Introduction
 
-## Exercises
-### Deploying to Azure Web Applications
-### Deploying to Azure Container instances (ACI)
-### Deploying Artifacts with GitHub extensions
+### GitHub Basics
+### Azure Basics 
+
+## DevOps with Azure DevOps
+### Azure DevOps Introduction 
+### Azure DevOps for CI
+### Azure DevOps for CD 
+### A/B testing
+
+## DevOps with GitHub
+
+### GitHub Actions Introduction
+### GitHub Actions for CI 
+### GitHub Actions for CD
+### A/B Testing with feature flags
