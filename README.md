@@ -9,7 +9,7 @@
 I'm happy to deliver this workshop virtually at destinations worldwide, and also to support anyone else who wants to deliver this, especially in local languages.
 
 ### Past deliveries:
- - 4Developers conference, October 26, 2090
+ - [4Developers conference, Virtually (CET) October 27, 2020](https://app.evenea.pl/event/4developers2021?smclient=0bfcef4a-99d1-11ea-999e-2841c6acdb70&utm_source=salesmanago&utm_medium=email&utm_campaign=default) 
 
 ## Prerequisites
 Here are list of free and open source [prerequisites](001_workshop_Prerequisites.md)
@@ -24,5 +24,5 @@ Here are list of free and open source [prerequisites](001_workshop_Prerequisites
 
 ## Exercises
 ### Deploying to Azure Web Applications
-### Deploying to Azure Container instances (ACI)
+### Deploying to Azure with Containers
 ### Deploying Artifacts with GitHub extensions
