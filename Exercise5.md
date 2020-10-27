@@ -56,6 +56,7 @@
     > Just like the build pipeline, the release pipeline is really just a set of tasks. There are many out-of-the-box tasks available, and you can build your own if needed. The first task our release requires is to set up the Azure deployment environment if it doesn't yet exist. After we add the task, I can authorize access to the Azure account I want to deploy
     to and instruct it to use the variable name we just specified for the resource group name.
 
+### Configure the release pipeline stages  
 
 1. Click the **Add task** button.
 
@@ -74,15 +75,41 @@
 
 
 1. Enter the **App Service name** of your **Staging Server**.
-1. Name this task **Staging**
+1. Rename this task from **Stage 1** to **Staging**
 1. Clone this task using the **Clone** button below the task
 1. Rename the new task **Production**
 1. Change the **App Service name** to your **Production Server**
 1. Clone the **Production** task using the **Clone** button 
 1. Rename the task in the middle **Canary**
-1. Click on the middle **Canary** task, then on the **Azure App Service Deploy** subtask. 
+1. Click on the middle **Canary** task, then on the **Deploy Azure App Service** subtask. 
 1. Inside the subtask, choose **Deployment Slot**.  Set the deployment slot to **Canary** inside your **Production Server**.
+
+1. ### Add Pre-deployment approvals
+
+> The release pipeline deploys to Staging, Canary and production. If the deployment to Staging fails, then deployment to the Canary deployment slot won't trigger.
+It is recommended to always verify if your app is working properly in Staging before deploying to production. Adding approvals will ensure all the criteria are met before deploying to the next stage. To add approvals to your pipeline follow the steps below:
+
+1. Select the **Production** stage,  **Pre-deployment conditions** icon then **Pre-deployment approvers**.
+
+   > [!div class="mx-imgBorder"] 
+   > ![pre-deployment approvers panel](media/open-approvers.png)
+
+1. In the **Approvers** text box, enter the user(s) that will be responsible for approving the deployment. 
+
+   > [!div class="mx-imgBorder"] 
+   > ![Adding pre-deployment approvers](media/select-approvers.png)
+
+   You can add as many approvers as you need, both individual users and organization groups. It's also possible to set up post-deployment approvals by selecting the "user" icon at the right side of the stage in the pipeline diagram. 
+
+1. Select **Save**.
+
+   > [!div class="mx-imgBorder"] 
+   > ![Saving the release pipeline](media/save-definition.png)
+
 1. **Save** the pipeline.
+ 
+### Create a new release 
+
 1. Select **+ Release** and then select **Create a Release** 
     
 1. Select **Create** to start a new release. 
