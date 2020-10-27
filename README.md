@@ -23,10 +23,6 @@ Here are list of free and open source [prerequisites](001_workshop_Prerequisites
 
 ### Exercise 1 – Fork and Clone GitHub repositories for this workshop 
 [Go To Exercise](Exercise1.md)
- - (Based on https://lab.github.com/githubtraining/introduction-to-github)
- - Instructions on forking and cloning a repo - https://docs.microsoft.com/en-us/learn/modules/create-a-build-pipeline/3-build-locally
- - Sample App: https://github.com/bbenz/devopswithgithub-TestABAzureDevOPs
-
  - Fork and clone a main branch
  - Making changes to the local repo
  - Staging
@@ -39,7 +35,6 @@ Here are list of free and open source [prerequisites](001_workshop_Prerequisites
  - Running and testing the code
  - Reviewing VS Code Git/GitHub 
  - Pushing to GitHub
- - Add an Issue
 
 ### Azure Basics 
  - Resource Groups
@@ -52,14 +47,12 @@ Here are list of free and open source [prerequisites](001_workshop_Prerequisites
  - Create a production server
  - Create a deployment slot on the production server 
  - Set the deployment slot to 50% traffic
-DevOps Introduction
 
 ### DevOps Introduction
  - People, process and products
  - Builds 
  - Releases 
  - Infrastructure as code
-DevOps with Azure DevOps
 
 ### Azure DevOps Introduction 
  - Azure Organizations
@@ -96,7 +89,7 @@ DevOps with Azure DevOps
 ### Exercise 6 - A/B testing
 [Go To Exercise](Exercise6.md)
  - Make a change in GitHub
- - Submit and accept a PR
+ - Commit and Push
  - Review the change 
 	Build
 	Release
@@ -108,27 +101,25 @@ DevOps with Azure DevOps
 
 ## DevOps with GitHub
 
-### GitHub Actions Introduction (Based on https://docs.microsoft.com/en-us/learn/modules/github-actions-automate-tasks/)
- - Container actions
- - JavaScript actions
+### GitHub Actions Introduction 
+[Related materials on Microsoft Learn ](https://docs.microsoft.com/en-us/learn/modules/github-actions-automate-tasks/)
+
+[Related Materials on Microsoft Docs](https://docs.microsoft.com/en-us/azure/azure-app-configuration/quickstart-feature-flag-aspnet-core?tabs=core3x)
  - Workflows
  - Action blocks
  - Triggers
  - Runners
  - Checkin and Checkout
  - Logs
- - Sample App: https://github.com/bbenz/devopswithgithub-TestFeatureFlags
- - Based on: https://docs.microsoft.com/en-us/azure/azure-app-configuration/quickstart-feature-flag-aspnet-core?tabs=core3x
 
 ### GitHub Actions for CI and CD 
- - (Based on https://docs.microsoft.com/en-us/learn/modules/github-actions-ci/)
- - (based on https://docs.microsoft.com/en-us/learn/modules/github-actions-cd/)
+ [Related materials on Microsoft Learn ](https://docs.microsoft.com/en-us/learn/modules/github-actions-ci/)
  - Using a Template
  - Building
  - Working with Artifacts
  - Testing
  - Automating Reviews
- - 
+  
  ### Feature Flags
  - Azure App configuration Manager
  - Options for filters
@@ -137,14 +128,16 @@ DevOps with Azure DevOps
 
 ### Exercise 7 - Setting up feature flags in Azure app Configuration Manager 
 [Go To Exercise](Exercise7.md)
- - https://docs.microsoft.com/en-us/azure/azure-app-configuration/quickstart-feature-flag-aspnet-core?tabs=core3x
+
+ [Related Materials on Microsoft Docs](https://docs.microsoft.com/en-us/azure/azure-app-configuration/quickstart-feature-flag-aspnet-core?tabs=core3x)
  - Create an App Configuration Store
+ 
  - Add a feature Manager
  - Set the percentage filter
 
 ### Exercise 8 - Generating a template with deployment manager
 [Go To Exercise](Exercise8.md)
- - (https://docs.microsoft.com/en-us/azure/app-service/deploy-github-actions?tabs=applevel)
+
  - Deploy to an Azure Web App using the Web App Deployment Center
  - Review the workflow results
  - Set up a connection string to the App Configuration store
