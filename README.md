@@ -9,7 +9,7 @@
 I'm happy to deliver this workshop virtually at destinations worldwide, and also to support anyone else who wants to deliver this, especially in local languages.
 
 ### Next workshop: 
-December 14, 15, and 16 10AM PST-11:30AM PST (3 days, 90 minutes per day)
+December 14, 15, and 16 11AM PST-12:30PM PST (3 days, 90 minutes per day)
 
 [View the workshop on Learn TV](https://07f.ca/learntv)
 
