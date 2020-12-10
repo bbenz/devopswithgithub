@@ -8,6 +8,11 @@
 ## Workshop delivery 
 I'm happy to deliver this workshop virtually at destinations worldwide, and also to support anyone else who wants to deliver this, especially in local languages.
 
+### Next workshop: 
+December 14, 15, and 16 10AM PST-11:30AM PST (3 days, 90 minutes per day)
+
+[View the workshop on Learn TV](https://07f.ca/learntv)
+
 ### Past deliveries:
  - [4Developers conference, Virtually (CET) October 27, 2020](https://app.evenea.pl/event/4developers2021?smclient=0bfcef4a-99d1-11ea-999e-2841c6acdb70&utm_source=salesmanago&utm_medium=email&utm_campaign=default) 
 
