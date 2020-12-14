@@ -4,7 +4,11 @@
 
 ## Workshop: DevOps with GitHub on Azure
 
+
 ### Exercise 6 - A/B testing
+
+[Related Microsoft Learn Materials](https://docs.microsoft.com/en-us/learn/paths/deploy-applications-with-azure-devops/)
+
  - Make a change in GitHub
  - Submit and accept a PR
  - Review the change 

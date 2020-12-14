@@ -4,7 +4,11 @@
 
 ## Workshop: DevOps with GitHub on Azure
 
+
 ### Exercise – 4 - Azure DevOps for CI
+
+[Related Microsoft Learn Materials](https://docs.microsoft.com/en-us/learn/modules/create-a-build-pipeline/)
+
  - Connect a repo to an Azure DevOps project using the Azure Pipelines extension in the GitHub marketplace
  - Choose the default build template
  - Replace the default template with a provided template

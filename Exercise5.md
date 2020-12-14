@@ -6,6 +6,8 @@
 
 
 ### Exercise 5 – Azure DevOps for CD 
+[Related Microsoft Learn Materials](https://docs.microsoft.com/en-us/learn/paths/deploy-applications-with-azure-devops/)
+
  - Create a new Release pipeline
 	Staging
 	Production

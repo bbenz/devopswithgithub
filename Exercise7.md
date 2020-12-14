@@ -9,7 +9,7 @@
 
 
 
- - https://docs.microsoft.com/en-us/azure/azure-app-configuration/quickstart-feature-flag-aspnet-core?tabs=core3x
+ [Related Microsoft Docs](https://docs.microsoft.com/en-us/azure/azure-app-configuration/quickstart-feature-flag-aspnet-core?tabs=core3x)
  - Create an App Configuration Store
  - Add a feature Manager
  - Set the percentage filter

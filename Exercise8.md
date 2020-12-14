@@ -7,6 +7,8 @@
 ### Exercise 8 - Generating a template with deployment manager
 
 [Related Materials on Microsoft Docs](https://docs.microsoft.com/en-us/azure/app-service/deploy-github-actions?tabs=applevel)
+
+[Related Microsoft Learn Materials](https://docs.microsoft.com/en-us/learn/modules/github-actions-ci/)
  
  - Fork and clone the [Feature Flags Sample App](https://github.com/bbenz/devopswithgithub-TestFeatureFlags)
  - Run the app locally in VS Code 
