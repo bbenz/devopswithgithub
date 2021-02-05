@@ -107,9 +107,9 @@ Here are list of free and open source [prerequisites](001_workshop_Prerequisites
 ## DevOps with GitHub
 
 ### GitHub Actions Introduction 
-[Related materials on Microsoft Learn ](https://docs.microsoft.com/en-us/learn/modules/github-actions-automate-tasks/)
+[Related materials on Microsoft Learn ](https://docs.microsoft.com/learn/modules/github-actions-automate-tasks/?WT.mc_id=java-0000-bbenz)
 
-[Related Materials on Microsoft Docs](https://docs.microsoft.com/en-us/azure/azure-app-configuration/quickstart-feature-flag-aspnet-core?tabs=core3x)
+[Related Materials on Microsoft Docs](https://docs.microsoft.com/azure/azure-app-configuration/quickstart-feature-flag-aspnet-core?tabs=core3x&WT.mc_id=java-0000-bbenz)
  - Workflows
  - Action blocks
  - Triggers
@@ -118,7 +118,7 @@ Here are list of free and open source [prerequisites](001_workshop_Prerequisites
  - Logs
 
 ### GitHub Actions for CI and CD 
- [Related materials on Microsoft Learn ](https://docs.microsoft.com/en-us/learn/modules/github-actions-ci/)
+ [Related materials on Microsoft Learn ](https://docs.microsoft.com/learn/modules/github-actions-ci/?WT.mc_id=java-0000-bbenz)
  - Using a Template
  - Building
  - Working with Artifacts
@@ -134,7 +134,7 @@ Here are list of free and open source [prerequisites](001_workshop_Prerequisites
 ### Exercise 7 - Setting up feature flags in Azure app Configuration Manager 
 [Go To Exercise](Exercise7.md)
 
- [Related Materials on Microsoft Docs](https://docs.microsoft.com/en-us/azure/azure-app-configuration/quickstart-feature-flag-aspnet-core?tabs=core3x)
+ [Related Materials on Microsoft Docs](https://docs.microsoft.com/azure/azure-app-configuration/quickstart-feature-flag-aspnet-core?tabs=core3x&WT.mc_id=java-0000-bbenz)
  - Create an App Configuration Store
  
  - Add a feature Manager
